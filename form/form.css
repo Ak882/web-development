@@ -1,0 +1,41 @@
+.new{
+    background-color: aquamarine;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+} 
+
+form{
+    background-color: #4CAF50;
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+    margin-top: 80px;
+    border: 5px;
+    border:black;
+    border-radius: 50px;
+}
+fieldset{
+    border-radius: 50px;
+    border-color: #4CAF50;
+}
+legend{
+    
+}
+
+input[type=email]{
+    background-color: blue;
+}
+input[type=password]{
+    background-color: blue;
+}
+input[type=checkbox]{
+    background-color: #4CAF50;
+}
+
+input[type=submit]{
+    background-color: #4CAF50;
+}
