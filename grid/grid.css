@@ -1,0 +1,16 @@
+.grid{display: grid;
+    grid-template-columns:repeat(8,180px);
+    grid-template-rows:repeat(8,180px) ;
+}
+    
+
+
+.white{
+    background-color: seashell;
+    height: 100px;
+}
+.black{
+    background-color:black;
+    height:180px;
+    
+}

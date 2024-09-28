@@ -1,0 +1,36 @@
+ div{
+    background-color: aqua;
+    border: 5px;
+    border-radius: 50px;
+ }
+ h1{
+    color: blue;
+    
+}
+h2{
+    color: red;
+}
+
+img{
+    border: solid 5px;
+    box-shadow: 20px;
+    border-radius: 50px;
+    border-color:black; 
+}
+*{
+    margin: 5px;
+    padding: 8px;
+}
+.ak{
+    color: red;
+}
+.ed[draggable]{
+    color: rgb(22, 22, 229);
+    background-color: aquamarine;
+    font-size:30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.new{
+    background-color: blue;
+    margin: auto;
+}
