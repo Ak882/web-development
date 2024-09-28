@@ -1,0 +1,16 @@
+.ashish{background-color: yellow;
+height: 300px;
+width: 200px;
+border-radius: 30px;
+padding: 20px;
+text-align: center;
+border-color: rgb(250, 3, 3);
+border-bottom: 30px;
+border-top: 30px;
+border-left: 30px;
+border-right: 30px;
+border: 50px;
+}
+
+button{background-color: blue;
+color: aliceblue;}
